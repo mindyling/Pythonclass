@@ -1,6 +1,7 @@
 # Pythonclass
 
-最喜歡的禪學句子是：
+最喜歡的禪學句子有5句：
+
 Flat is better than nested
 Simple is better than complex
 我以前上個程式課寫過nest loop，如果一個nest裏面有很多loop的話真的會非常頭痛。除了會效能低，人腦有時也會被搞混亂進而寫錯code。所以我的心得是可以的話盡可能flat，不要讓code更複雜寫出很多nest loop。
